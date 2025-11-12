@@ -84,7 +84,7 @@ SELECT
     url
 FROM Piezas
 LEFT JOIN Categorias
-    ON Piezas.id_categoria = Categorias.Identificador;´
+    ON Piezas.id_categoria = Categorias.Identificador;
 
 
 
@@ -115,3 +115,4 @@ TO 'portafolioceac'@'localhost';
 
 -- recarga la tabla de privilegios
 FLUSH PRIVILEGES;
+
