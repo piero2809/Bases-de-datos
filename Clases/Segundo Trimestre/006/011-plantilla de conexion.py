@@ -13,4 +13,4 @@ cursor.execute("SELECT * FROM matriculas_join;")
 
 filas = cursor.fetchall()
 
-print(filas)
+print(filas)   
