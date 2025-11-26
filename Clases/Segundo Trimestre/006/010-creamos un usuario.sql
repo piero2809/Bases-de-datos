@@ -6,7 +6,7 @@ IDENTIFIED  BY 'composiciones123';
 GRANT USAGE ON *.* TO 'composiciones'@'localhost';
 
 
-ALTER USER 'composiciones'@'localhost ' 
+ALTER USER 'composiciones'@'localhost' 
 REQUIRE NONE 
 WITH MAX_QUERIES_PER_HOUR 0 
 MAX_CONNECTIONS_PER_HOUR 0 

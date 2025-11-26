@@ -8,7 +8,7 @@ conexion = mysql.connector.connect(
   database="composiciones"
 )                         
   
-cursor = conexion.cursor() 
+cursor = conexion.cursor(dictionary=True) 
 cursor.execute("SELECT * FROM matriculas_join;")  
 
 filas = cursor.fetchall()
