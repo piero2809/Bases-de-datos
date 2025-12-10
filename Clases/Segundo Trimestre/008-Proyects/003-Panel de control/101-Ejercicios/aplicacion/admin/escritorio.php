@@ -1,1 +1,19 @@
-Si estas viendo esto, es que has conseguido hacer login ok
+<!doctype html>
+<html lang="es">
+
+<head>
+    <title>El jocarsa - Panel de control</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/estilo.css">
+</head>
+
+<body>
+    <nav>
+        <button>Noticias</button>
+        <button>Autores</button>
+    </nav>
+    <main>
+    </main>
+</body>
+
+</html>
