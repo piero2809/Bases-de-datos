@@ -1,0 +1,67 @@
+{
+  "datos_personales": {
+    "nombre": "Piero Gabriel",
+    "apellidos": "Funes Larios"
+  },
+  "experiencias_laborales": [
+    {
+      "titulo": "Barista",
+      "empresa": "Starbucks",
+      "timespan": "08/2024 - 03/2025",
+      "descripcion": "Preparación de bebidas según estándares de calidad, gestión de pedidos y operación de caja en entornos de alto volumen, con foco en eficiencia operativa y coordinación con el equipo para asegurar un servicio fluido y consistente."
+    },
+    {
+      "titulo": "Barista",
+      "empresa": "Liaopastel",
+      "timespan": "08/2025 - 10/2025",
+      "descripcion": "Preparación de bebidas según estándares de calidad, gestión de pedidos y operación de caja en entornos de alto volumen, con foco en eficiencia operativa y coordinación con el equipo para asegurar un servicio fluido y consistente."
+    },
+    {
+      "titulo": "Soporte tecnico y atencion al cliente",
+      "empresa": "Servicios industriales KIP",
+      "timespan": "01/2023 - 04/2023",
+      "descripcion": "Preparación de bebidas según estándares de calidad, gestión de pedidos y operación de caja en entornos de alto volumen, con foco en eficiencia operativa y coordinación con el equipo para asegurar un servicio fluido y consistente."
+    }
+  ],
+  "Contacto": {
+    "telefono": "652210540",
+    "correo": "pierofl2005@gmail.com",
+    "ubicacion": "Valencia, Burjassot",
+    "linkedin": "https://www.linkedin.com/in/piero-funes-larios-44360a166/"
+  },
+  "Perfil_Profesional": {
+    "resumen": "Profesional en formación con experiencia en atención al cliente y servicio, desarrollada en empresas del sector retail. Reconocido por la capacidad para trabajar bajo presión, la orientación al detalle y las habilidades de comunicación. Actualmente, iniciando estudios en Desarrollo de Aplicaciones Web (CEAC), con interés en combinar competencias tecnológicas con una atención al cliente de calidad."
+  },
+  "idiomas": {
+    "idioma1": "Español - Nativo",
+    "idioma2": "Ingles - (No certificado)"
+  },
+  "competencias": [
+    "Microsoft Office (Intermedio)",
+    "Mantenimiento preventivo de computadoras",
+    "Comunicación asertiva",
+    "Orientación al cliente",
+    "Trabajo en equipo",
+    "Adaptabilidad",
+    "Gestión de tiempo"
+  ],
+  "voluntariado": {
+    "organizacion": "Sonrisas 95 (Voluntariado Social)",
+    "actividades": [
+      "Apoyo en actividades benéficas para comunidades de bajos recursos.",
+      "Organización de campañas y entrega de donaciones."
+    ]
+  },
+  "formacion": [
+    {
+      "titulo": "Formación Profesional en Desarrollo de Aplicaciones Web (DAW)",
+      "institucion": "Centro de estudios CEAC",
+      "periodo": "Inicio 2025 - Actualidad"
+    },
+    {
+      "titulo": "Carrera de Psicología",
+      "institucion": "Universidad de Lima",
+      "periodo": "2023 - 2024"
+    }
+  ]
+}
